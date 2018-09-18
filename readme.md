@@ -33,7 +33,7 @@ http://localhost:8000
 Make whatever changes you need to make, and then push the changes to this repository to update the live Github pages site:
 
 ```bash
-yarn run Build
+yarn run build
 git add .
 git commit -m 'Your commit message...'
 git push
